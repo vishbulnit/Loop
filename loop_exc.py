@@ -1,5 +1,5 @@
 
-fruits = ["apple", "cherry", "banana","mango","orange","papaya","pineapple"]
+fruits = ["apple", "cherry", "banana","mango","orange"]
 for x in fruits:
   if x == "orange":
     break
